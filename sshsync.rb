@@ -86,8 +86,6 @@ class Sshsync < Formula
 
   def install
     virtualenv_install_with_resources
-
-    system "#{bin}/sshsync", "--install-completion"
   end
 
   
