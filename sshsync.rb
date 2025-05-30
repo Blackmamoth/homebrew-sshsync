@@ -3,8 +3,8 @@ class Sshsync < Formula
 
   desc "CLI tool to run shell commands across multiple servers via SSH"
   homepage "https://github.com/Blackmamoth/sshsync"
-  url "https://files.pythonhosted.org/packages/fe/7c/6729192fe0e4e80277ab702d59dc6fa3aac6933e2ebca59623645ec7946a/sshsync-0.11.1.tar.gz"
-  sha256 "30d7b449d14415fff7cbfd840a7d00c4c821805275a311500ddd247b53dcae27"
+  url "https://files.pythonhosted.org/packages/bb/e6/d3f0db85a0b9c8951871808ffb59fe4707912ab0c83fa40067547d67e2b7/sshsync-0.11.2.tar.gz"
+  sha256 "44066cce71cd9be10e5eee1ce81b5d302b5f3a54960a4c53312a1d0c529d1921"
   license "MIT"
 
   depends_on "python@3.10"
